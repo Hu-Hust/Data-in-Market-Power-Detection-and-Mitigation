@@ -1,28 +1,2 @@
 This is the original data for numerical examples in market power detection and mitigation.
-The data is given in an Excel file.
 
-=========================================================
-Field name         Data type             Description
----------------------------------------------------------
-Unit Code	         String	               19-22 alphanumeric identifier concealing the unit's identity
-MW1	               Number	               MW portion of a unit's bid curve
-MW2	               Number	               MW portion of a unit's bid curve
-MW3	               Number	               MW portion of a unit's bid curve
-MW4	               Number	               MW portion of a unit's bid curve
-MW5	               Number	               MW portion of a unit's bid curve
-MW6	               Number	               MW portion of a unit's bid curve
-MW7	               Number	               MW portion of a unit's bid curve
-MW8	               Number	               MW portion of a unit's bid curve
-MW9	               Number	               MW portion of a unit's bid curvee
-MW10	             Number	               MW portion of a unit's bid curvee
-BID1	             Number	               $/MWh portion of a unit's bid curve
-BID2	             Number	               $/MWh portion of a unit's bid curve
-BID3	             Number	               $/MWh portion of a unit's bid curve
-BID4	             Number	               $/MWh portion of a unit's bid curve
-BID5	             Number	               $/MWh portion of a unit's bid curve
-BID6	             Number	               $/MWh portion of a unit's bid curve
-BID7	             Number	               $/MWh portion of a unit's bid curve
-BID8	             Number	               $/MWh portion of a unit's bid curve
-BID9	             Number	               $/MWh portion of a unit's bid curve
-BID10	             Number	               $/MWh portion of a unit's bid curve
-=========================================================
