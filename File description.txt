@@ -4,6 +4,7 @@ The data is given in an Excel file.
 =========================================================
 Field name         Data type             Description
 ---------------------------------------------------------
+Generator      String                Serial number of generators
 Unit Code	     String	               19-22 alphanumeric identifier concealing the unit's identity
 MW1	             Number	               MW portion of a unit's bid curve
 MW2	             Number	               MW portion of a unit's bid curve
